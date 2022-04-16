@@ -1,0 +1,3 @@
+compmgmt.msc      计算机管理
+srevices.msc             服务
+systeminfo               电脑信息
