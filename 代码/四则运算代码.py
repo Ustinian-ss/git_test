@@ -1,6 +1,6 @@
 x = int(input("请输入一个数"))
 y = int(input("请输入一个数"))
-z = str(input("请输入运算符"))
+z = str(input("请输入运算符"))#仅限于简单的四则运算+-*/
 def jisuan(put_one, put_two):
     s = 0
     x = put_one; y = put_two
